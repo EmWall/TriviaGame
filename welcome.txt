@@ -1,0 +1,14 @@
+            C PROGRAM QUIZ GAME
+    ________________________________________
+             WELCOME to TRIVIA
+    ________________________________________
+    ________________________________________
+       CAN YOU MAKE THE TOP FIVE?!?!?!?!    
+    ________________________________________
+    ________________________________________
+        > Press S to start the game
+        > Press V to view the top five
+        > Press R to reset score
+        > press H for help
+        > press Q to quit
+    ________________________________________

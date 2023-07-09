@@ -1,0 +1,13 @@
+                              HELP
+---------------------------------------------------------------------
+.......................... C Program Trivia..........................
+>> There are two rounds in the game, WARMUP ROUND & CHALLANGE ROUND
+>> In warmup round you will be asked a total of 3 questions to test your general
+    knowledge. You will be eligible to play the game if you can give atleast 2
+    right answers otherwise you can't play the Game...........
+>> Your game starts with the CHALLANGE ROUND. In this round you will be asked a
+    total of 10 questions each right answer will be worth one point.
+>> The questions will be multiple choice so type A, B, C, or D for each question.
+>> No negative marking for wrong answers
+*********************BEST OF LUCK*********************************
+*****C PROGRAM TRIVIA was developed with inspiration from the CODE WITH C TEAM*****
